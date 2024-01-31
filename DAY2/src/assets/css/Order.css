@@ -1,0 +1,38 @@
+/* OrderPage.css */
+
+.order-page {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  .order-summary {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
