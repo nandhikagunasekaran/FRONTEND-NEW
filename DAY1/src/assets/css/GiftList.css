@@ -1,0 +1,19 @@
+/* GiftList.css */
+
+.gift-list-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .gift-list-title {
+    color: #555;
+    text-align: center;
+  }
+  
+  .gift-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Add more styling as needed */
+  
