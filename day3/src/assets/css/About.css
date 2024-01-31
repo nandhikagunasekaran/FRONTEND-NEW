@@ -1,0 +1,25 @@
+
+/* About.css */
+
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 10px;
+    
+    border-radius: 0px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-container h1 {
+    color: #333;
+    margin-bottom: 50px;
+  }
+  
+  .about-container p {
+    color: #555;
+    line-height: 1.2;
+  }
+  
+  /* Add more styling as needed */
+    
